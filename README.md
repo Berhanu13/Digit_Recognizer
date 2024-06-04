@@ -4,7 +4,7 @@
 **Goal:** <br>
 
 Recognize hand written digits' images (32x32 pixels in grey scale) and predict the labels which are from 0 to 9. 
-It's also an ongoing competition. <br> 
+ <br> 
 Kaggle link: https://www.kaggle.com/c/digit-recognizer
 
 **Dataset:** <br>
